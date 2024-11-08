@@ -6,6 +6,7 @@ This project leverages Selenium WebDriver and the Page Object Model (POM) design
 
 ## Table of Contents
 - [Configuration](#configuration)
+  - [CloneRepository](clone-the-repository)
   - [Dependencies](#dependencies)
   - [Configuring Properties](#configuring-properties)
 - [Running the Test Suite](#running-the-test-suite)
@@ -18,6 +19,12 @@ This project leverages Selenium WebDriver and the Page Object Model (POM) design
 ---
 
 ## Configuration
+
+### Clone the Repository
+
+To clone this repository to your local machine, run the following command:
+
+git clone `https://github.com/akshayjoshi2000/assessment_vv.git`
 
 ### Dependencies
 
